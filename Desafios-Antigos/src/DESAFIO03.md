@@ -1,5 +1,3 @@
-![image](https://avatars2.githubusercontent.com/u/33267151?s=200&v=4)
-
 
 ### 003 - Maior Palavra (desafio by: @Black )
 

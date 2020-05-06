@@ -9,6 +9,5 @@ Escreva um programa que valide uma senha. As regras pra isso são:
 - Conter pelo menos um caractere especial
 - Não conter espaços
 
----
 
 - [VOLTE PARA A LISTA](../README.md)
